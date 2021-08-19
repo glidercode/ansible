@@ -71,6 +71,8 @@ end
   - service: name=ntpd state=started enabled=yes
   ```
 
+This is a simple example
+
 2.Let’s run the playbook on our VM. Make sure you’re in the same directory as the Vagrantfile and new playbook.yml file, and enter
 
 ```bash
